@@ -10,6 +10,8 @@
   "config": {
     "serviceURL": "{teamId}",
     "hasNotificationSound": true,
-    "hasCustomUrl": true
+    "hasCustomUrl": true,
+    "hasTeamId": true,
+    "urlInputSuffix": "Rocket.Chat"
   }
 }
