@@ -1,0 +1,15 @@
+{
+  "id": "rocketchatcustomurl",
+  "name": "Rocket.Chat",
+  "version": "1.0.0",
+  "description": "Rocket.Chat custom Url",
+  "main": "index.js",
+  "author": "Alan Martines <alancpmartines@hotmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alanmartines/recipe-rocketchat",
+  "config": {
+    "serviceURL": "{teamId}",
+    "hasNotificationSound": true,
+    "hasCustomUrl": true
+  }
+}
